@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<info>
+    <id>helloworld</id>
+    <name>HelloWorld</name>
+    <description>Education application</description>
+    <version>0.1</version>
+    <licence>AGPL</licence>
+    <author>Patrick Paysant / CNRS</author>
+    <require>7</require>
+</info>
